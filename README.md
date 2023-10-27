@@ -59,5 +59,3 @@ An explanation of the "replay" command is provided, outlining its functionality 
 
 ## Handling Other Commands
 It is noted that any commands not explicitly handled by "Aish" are executed through the `execvp` function, allowing for flexibility in command execution.
-
-Including comprehensive documentation in your project like this helps users and contributors grasp your shell's capabilities and structure, promoting ease of use and development.
